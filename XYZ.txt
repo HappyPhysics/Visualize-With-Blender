@@ -1,0 +1,4 @@
+# name X Y Z
+point001 1 1 1
+point002 1 1 1
+point003 2.3 1 0
